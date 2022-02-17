@@ -4,4 +4,6 @@
 
 This project is not at all responsive and is not designed to be extremely pretty. However, as of this readme commit, this repo passes all the FCC automated tests for project submission.
 
-[Link to codepen proejct](https://codepen.io/goloisaninja/pen/LYOjEXq?editors=0100)
+See the Codepen...
+
+[![Link to the Codepen](https://i.imgur.com/VUwj1Uq.png)](https://codepen.io/goloisaninja/pen/LYOjEXq?editors=0100)
